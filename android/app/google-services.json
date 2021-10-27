@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158516428803",
+    "project_id": "sans-flutter-test",
+    "storage_bucket": "sans-flutter-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158516428803:android:334e3b64e63b7a667d8e36",
+        "android_client_info": {
+          "package_name": "com.sanskar.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158516428803-uu532f9raf9jp0h2t3qdsqhcimf1l637.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpClbeDqAA6ZFd33iObbPy-d--YdbGuyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158516428803-uu532f9raf9jp0h2t3qdsqhcimf1l637.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
